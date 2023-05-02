@@ -3,15 +3,11 @@
 ### Python Back-end Developer 
 
 
-Soy un apasionado de la informática y la tecnología en general. 
+Apasionado de la informática y la tecnología en general. 
 
 Curioso por naturaleza, autodidacta, lo que me ha llevado a investigar y aprender constantemente sobre las últimas tendencias.
 
 Aunque mi experiencia laboral inicialmente se centró en el campo de la seguridad e higiene industrial, siempre mantuve viva mi pasión por la tecnología y ahora he decidido retomarla y enfocarme en ella de manera profesional. Me considero una persona altamente motivada y comprometida, y estoy seguro de que mi pasión me permitirá destacar en cualquier proyecto en el que participe realizando una gran contribución a cualquier equipo de trabajo.
-
-Me encanta la naturaleza. Me gusta disfrutar de actividades al aire libre como el trekking y la náutica, que me permiten desconectar de la rutina diaria. 
-
-Además, también soy un ávido fanático de las películas y series.
 
 
 ## Tecnologías:

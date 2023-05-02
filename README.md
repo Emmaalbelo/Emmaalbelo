@@ -11,7 +11,7 @@ Aunque mi experiencia laboral inicialmente se centró en el campo de la segurida
 
 
 ## Tecnologías:
-![https://github.com/Emmaalbelo](https://raw.githubusercontent.com/Emmaalbelo/Emmaalbelo/main/tecVertical.jpg)
+![https://github.com/Emmaalbelo](https://raw.githubusercontent.com/Emmaalbelo/Emmaalbelo/main/Tec.jpg)
 
 
 ## Contacto:

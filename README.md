@@ -10,7 +10,7 @@ Curioso por naturaleza, autodidacta, lo que me ha llevado a investigar y aprende
 Aunque mi experiencia laboral inicialmente se centró en el campo de la seguridad e higiene industrial, siempre mantuve viva mi pasión por la tecnología y ahora he decidido retomarla y enfocarme en ella de manera profesional. Me considero una persona altamente motivada y comprometida, y estoy seguro de que mi pasión me permitirá destacar en cualquier proyecto en el que participe realizando una gran contribución a cualquier equipo de trabajo.
 
 
-## Tecnologías:
+## Skills:
 ![https://github.com/Emmaalbelo](https://raw.githubusercontent.com/Emmaalbelo/Emmaalbelo/main/Tec.jpg)
 
 

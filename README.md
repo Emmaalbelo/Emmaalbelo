@@ -15,7 +15,7 @@ Además, también soy un ávido fanático de las películas y series.
 
 
 ## Tecnologías:
-![https://github.com/Emmaalbelo](https://raw.githubusercontent.com/Emmaalbelo/Emmaalbelo/main/Tec.jpg)
+![https://github.com/Emmaalbelo](https://raw.githubusercontent.com/Emmaalbelo/Emmaalbelo/main/tecVertical.jpg)
 
 
 ## Contacto:

@@ -12,7 +12,8 @@ I am a self-taught professional with a strong background in web development, spe
 - **Version Control:** Git
 - **Database:** SQL, MySQL, PostgreSQL, MongoDB, SQLite
 - **MicroServices:** AWS
-
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmaalbelo" />
 
 ## Connect with Me 🌐
 [![Page](https://img.shields.io/badge/Page-Emmanuel_Albelo-fffacd?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/Emmaalbelo)

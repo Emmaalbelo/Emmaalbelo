@@ -15,12 +15,12 @@ I am a self-taught professional with a strong background in web development, spe
 
 
 ## Connect with Me 🌐
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Albelo-339933?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ealbelo)
-[![Facebook](https://img.shields.io/badge/Facebook-@Emmanuel_Albelo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/emmaalbelo)
+[![Page](https://img.shields.io/badge/Page-Emmanuel_Albelo-fffacd?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/Emmaalbelo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Albelo-cdffeb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ealbelo)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@Emmanuel_Albelo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/EmmanuelAlbelo)
 [![Instagram](https://img.shields.io/badge/Instagram-@emmanuel_a_-EC5252?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/emmanuel_a_)
+[![Facebook](https://img.shields.io/badge/Facebook-@Emmanuel_Albelo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/emmaalbelo)
 </br>
 [![Outlook](https://img.shields.io/badge/emmaalbelo@hotmail.com-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](mailto:emmaalbelo@gmail.com)
 [![Gmail](https://img.shields.io/badge/emmaalbelo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:emmaalbelo@gmail.com)

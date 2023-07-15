@@ -24,3 +24,5 @@ I am a self-taught professional with a strong background in web development, spe
 </br>
 [![Outlook](https://img.shields.io/badge/emmaalbelo@hotmail.com-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](mailto:emmaalbelo@gmail.com)
 [![Gmail](https://img.shields.io/badge/emmaalbelo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:emmaalbelo@gmail.com)
+
+### Thank you for visiting my profile 🌟
